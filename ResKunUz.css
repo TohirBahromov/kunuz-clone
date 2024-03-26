@@ -1,0 +1,431 @@
+@media(max-width:1200px){
+  .Reklama{
+    display: none;
+  }
+  .Container{
+    margin:0px;
+    width:95%;
+  }
+  .desktop-navbar{
+    display: none;
+  }
+  .responsive-navbar{
+    display: flex !important;
+  }
+  .only-displey-flex{
+    display: flex !important;
+    margin:0;
+  }
+  .responsive-navbar i{
+    padding:0 10px;
+  }
+}
+
+                                 /*  Regions  */
+                                 /*  Regions  */
+                                 /*  Regions  */
+
+@media(max-width:1200px){
+  .Regions{
+    display: none;
+  }
+  .Only-Responsive{
+    display: block !important;
+  }
+}
+
+                               /* Main Contents */
+                               /* Main Contents */
+                               /* Main Contents */
+
+@media(max-width:1200px){
+  .display-n{
+    display: none;
+  }
+  .Faster-News{
+    padding:0px;
+  }
+  .responsive-flex-data{
+    display: flex !important;
+  }
+  .responsive{
+    padding:0px;
+    margin:0px !important;
+    width:100%;
+  }
+  .Main-Contents{
+    display: block !important;
+  }
+  .Head-News{
+    display: block !important;
+    margin-bottom:0px;
+  }
+  .head-contents{
+    width:100%;
+    padding:15px;
+    box-sizing: border-box;
+    border-bottom:1px solid #cecece;
+    margin-bottom:0px;
+    background-color:#EFF2F8;
+  }
+  .head-contents .content-img{
+    width:100px !important;
+    height: 100%;
+  }
+  .head-contents .content-img img{
+    width: 100px;
+    object-fit: cover;
+  }
+  .head-contents:last-child{
+    border-bottom:none;
+  }
+  .content-block{
+    border-bottom:none;
+  }
+  .content-img img{
+    border-radius: 10px;
+  } 
+  .responsive-img{
+    width:100% !important;
+  }
+  .Big-News{
+    padding:0px;
+    margin:0px;
+  }
+  .Place-Content{
+    padding:18px
+  }
+  .Place-Content .Place-Content-p-14px{
+    display: none;
+  }
+  .News-Data{
+    display: none;
+  }
+  .Responsive{
+    display: block !important;
+    margin:0px;
+  }
+  .Big-Title{
+    margin-bottom:10px;
+  }
+  .Big-Block-Title a{
+    display: none;
+  }
+  .Big-Block-Title{
+    background-color:#EFF2F8;  
+    padding:20px 20px 20px 16px;
+    display: none;
+    margin:0px;
+  }
+  .Big-Block-Title h2{
+    font-size:16px;
+  }
+  .Big-Block-Title h2::before{
+    width:16px;
+    height:16px;
+    top:4px;
+  }
+  .Muharrir-Tanlovi{
+    display: none;
+  }
+  .lenta-block{
+    display: flex;
+    justify-content: space-between !important;
+    padding:20px;
+    margin-bottom:0px;
+  }
+  .lenta-block-last{
+    border-bottom:none;
+  }
+  .lenta-content{
+    width:100%;
+    box-sizing: border-box;
+  }
+  .lenta-img{
+    width:30%;
+    display: block;
+    height:50% !important;
+  }
+  .lenta-img img{
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  .Lenta-News{
+    margin:0px;
+  }
+  .button-yangiliklar{
+    display: none;
+  }
+  .barchasi {
+    display: block;
+  }
+  .responsive-muharrir-tanlovi{
+    display: block;
+  }
+  .muharrir-tanlovi-block{
+    padding:0px;
+    box-sizing: border-box;
+    
+    width:100%;
+  }
+  .muharrir-tanlovi-img{
+    margin-bottom:0px;
+  }
+  .muharrir-tanlovi-content{
+    padding:10px;
+    background-color:#fff;
+  }
+  .muharrir-tanlovi-content .muharrir-tanlovi-p{
+    font-size:16px;
+  }
+}
+
+                       /* Dolzarb Xabarlar */
+                       /* Dolzarb Xabarlar */
+                       /* Dolzarb Xabarlar */
+
+@media(max-width:1200px){
+  .dolzarb-xabarlar{
+    display: block;
+  }
+  .main-dolzarb-news{
+    width:100%;
+    padding:0 10px;
+    box-sizing: border-box;
+  }
+  .next-dolzarb-news{
+    width:100%;
+  }
+  .main-news-content p{
+    display: none;
+  }
+  .main-news-img img,.next-dolzarb-img img{
+    border-radius: 15px ;
+    width:100%;
+  }
+  .index-p{
+    display: none;
+  }
+  .Big-Title,.next-dolzarb-content p{
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .next-dolzarb-row{
+    display: block;
+  }
+  .next-dolzarb-block{
+    width:100% !important;
+  }
+  .next-dolzarb-img{
+    height: 100%;
+  }
+}
+
+                      /*  kun uz surishtiruvi */
+                      /*  kun uz surishtiruvi */
+                      /*  kun uz surishtiruvi */
+
+@media(max-width:1200px){
+  .res-kun-sur-block{
+  background-color:#fff;
+  margin:0px 5px 10px;
+  } 
+  .responsive-kun-surish{
+    background-color:#EFF2F8;
+    padding-bottom:20px;
+  }
+  .res-kun-sur-img{
+    width:100%;
+    height: 146px;
+  }
+  .res-kun-sur-img img{
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .res-kun-sur-cont{
+    padding:10px 12px;
+  }
+  .res-kun-sur-cont h3{
+    font-size:13px;
+    font-weight: 300;
+  }
+} 
+
+                                                /* Maqolalar  */
+
+@media(max-width:1200px){
+  .maqolalar{
+    display: block;
+  }
+  .maqolalar-block{
+    padding:0px;
+    width:100%;
+    margin:0px;
+  }
+  .maqolalar-img{
+    height: 234px;
+  }
+  .maqola-sarlavha h4{
+    padding-bottom:10px;
+    min-height:auto;
+  }
+  .maqolalar-content p{
+    display: none;
+  }
+  .maqola-sarlavha{
+    min-height: auto;
+    padding:15px;
+    padding-top: 0;
+  }
+  .resp .Big-Block-Title{
+    display: block;
+    margin:0px !important;
+    background-color:#fff;
+  }
+  .maqolalar-img .index-p{
+    display: none;
+  }
+  .maqola-data{
+    background-color:#fff;
+    border-radius: 10px;
+    padding:8px 12px;
+    position: absolute;
+    bottom:0;
+    width:40%;
+  }
+  .maqola-data p{
+    position: absolute;
+    top:50%;
+    left:23%;
+    transform:translateY(-50%)
+  }
+}    
+
+                                                  /* Biznes  */
+
+@media(max-width:1200px){
+  .res-biznes-head{
+    background:url(https://kun.uz/assets/dbcd922c/images/Rectangle.png);
+    display: flex;
+    justify-content: space-between;
+    height: 42px;
+    background-size: cover;
+    padding:0 15px;
+  }
+  .res-biznes-logo{
+    line-height: 42px;
+  }
+  .res-biznes-cont p,
+  .res-biznes-cont i{
+    color:#fff;
+    line-height: 42px !important;
+  }
+  .biznes-block h2{
+    padding:10px;
+    min-height: 90px;
+  }
+  .biznes-block{
+    height: auto;
+    margin:0px;
+  }
+  .big-biznes{
+    padding-bottom:55px;
+    background-color:#cecece;
+  }
+  .display-b{
+    display: block;
+  }
+  .display-no{
+    display: block;
+  }
+}        
+
+                                                      /* Responsive Intervyu  */
+
+@media(max-width:1200px){
+  .res-interv-bg{
+    background-color:#0E3075;
+    padding-bottom:85px;
+  } 
+  .res-interv-bg .Big-Block-Title{
+    background-color:transparent;
+  }
+  .res-interv-bg .Big-Block-Title h2{
+    color:#fff;
+  }
+  .res-interv-bg .block-title::before{
+    border-color:#fff;
+  }
+  .res-interv-block{
+    margin:0 15px;
+    background-color:#fff;
+  }
+  .res-interv-sarlavha{
+    margin-bottom:15px
+  }
+  .res-interv-sarlavha h4{
+    padding-bottom:0px;
+  }
+  .Big-Block-Title{
+    padding:15px 20px 15px 16px;
+  }
+}      
+
+                                                      /* Responsive Navbar  */
+
+@media(max-width:1200px){
+  .responsive-navbar-fixed{
+    position:fixed;
+    left:0;
+    bottom:0;
+    right:0;
+    background-color:#fff;
+    padding:0 15px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+  .active-navigator{
+    display: flex;
+    justify-content:space-between;
+    position: relative;
+  }
+  .respon-nav-block{
+    align-items:center;
+    padding:8px;
+  }
+  .respon-nav-block i{
+    padding:0px;
+    margin:0 auto !important;
+    text-align:center;
+    font-size:22px;
+    position: relative;
+    left:22%;
+  }
+  .respon-nav-block span{
+    display:block;
+    margin:0 auto;
+    width:100%;
+    font-weight: 500;
+  }
+  .respon-nav-block.active-li{
+    color:#0E3075;
+  }
+  .active-navigator .active{
+    width:70px;
+    position: absolute;
+    top:0;
+    left:0;
+    height: 5px;
+    background-color:#0E3075;
+    border-radius: 3px;
+  }
+}        
+
+                                                            /* More Extansions  */
+
+@media(max-width:1200px){
+
+}                                                        
